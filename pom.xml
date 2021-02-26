@@ -21,18 +21,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.afs</groupId>
 	<version>0.0.1-SNAPSHOT</version>
-	<artifactId>afs</artifactId>
+	<artifactId>afs-parent</artifactId>
 	<packaging>pom</packaging>
 
 
-
-
-
-	<modules>
- 		<module>common-lib</module>
- 		<module>afs-client</module>
- 		<module>afs-api</module>
- 	</modules>
 
 	<dependencyManagement>
 
