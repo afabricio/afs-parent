@@ -46,7 +46,7 @@
 			</dependency>
 			<dependency>
 				<groupId>com.afs</groupId>
-				<artifactId>common-lib</artifactId>
+				<artifactId>afs-common-lib</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
 
